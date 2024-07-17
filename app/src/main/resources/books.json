@@ -1,0 +1,156 @@
+[
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genres": ["fantasy", "action", "adventure"],
+        "numberOfPages": 310,
+        "publishedDate": "1937-09-21"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genres": ["fiction", "historical", "coming-of-age"],
+        "numberOfPages": 281,
+        "publishedDate": "1960-07-11"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genres": ["dystopian", "political", "science fiction"],
+        "numberOfPages": 328,
+        "publishedDate": "1949-06-08"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genres": ["fiction", "historical", "romance"],
+        "numberOfPages": 180,
+        "publishedDate": "1925-04-10"
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "genres": ["dystopian", "science fiction", "satire"],
+        "numberOfPages": 311,
+        "publishedDate": "1932-05-01"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genres": ["fiction", "coming-of-age", "classic"],
+        "numberOfPages": 234,
+        "publishedDate": "1951-07-16"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genres": ["fantasy", "adventure", "action"],
+        "numberOfPages": 1137,
+        "publishedDate": "1954-07-29"
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genres": ["dystopian", "science fiction", "action"],
+        "numberOfPages": 374,
+        "publishedDate": "2008-09-14"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genres": ["romance", "historical", "classic"],
+        "numberOfPages": 279,
+        "publishedDate": "1813-01-28"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "genres": ["fiction", "horror", "classic"],
+        "numberOfPages": 254,
+        "publishedDate": "1890-07-01"
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "genres": ["science fiction", "comedy", "adventure"],
+        "numberOfPages": 193,
+        "publishedDate": "1979-10-12"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genres": ["mystery", "thriller", "conspiracy"],
+        "numberOfPages": 489,
+        "publishedDate": "2003-03-18"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genres": ["Fantasy", "Spiritual"],
+        "numberOfPages": 208,
+        "publishedDate": "1988-01-01"
+    },
+    {
+        "title": "Pachinko",
+        "author": "Min Jin Lee",
+        "genres": ["Historical Fiction"],
+        "numberOfPages": 496,
+        "publishedDate": "2017-02-07"
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "genres": ["Mystery", "Thriller"],
+        "numberOfPages": 672,
+        "publishedDate": "2005-08-01"
+    },
+    {
+        "title": "The Brief Wondrous Life of Oscar Wao",
+        "author": "Junot Diaz",
+        "genres": ["Literary Fiction"],
+        "numberOfPages": 352,
+        "publishedDate": "2007-09-06"
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "genres": ["Adventure", "Satire"],
+        "numberOfPages": 366,
+        "publishedDate": "1884-12-10"
+    },
+    {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "genres": ["Fantasy"],
+        "numberOfPages": 662,
+        "publishedDate": "2007-03-27"
+    },
+    {
+        "title": "The Nightingale",
+        "author": "Kristin Hannah",
+        "genres": ["historical", "war", "drama"],
+        "numberOfPages": "440",
+        "publishedDate": "2015-02-03"
+    },
+    {
+        "title": "The Call of the Wild",
+        "author": "Jack London",
+        "genres": ["adventure", "survival", "animal fiction"],
+        "numberOfPages": "232",
+        "publishedDate": "1903-06-18"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "genres": ["thriller", "horror", "mystery"],
+        "numberOfPages": "368",
+        "publishedDate": "1988-05-05"
+    },
+    {
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "genres": ["epistolary", "historical", "fiction"],
+        "numberOfPages": "295",
+        "publishedDate": "1982-02-01"
+    }
+]
